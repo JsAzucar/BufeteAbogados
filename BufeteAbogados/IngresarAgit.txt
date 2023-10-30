@@ -1,0 +1,125 @@
+https://www.youtube.com/watch?v=yFzlukjtv1o-----------------Validaciones
+
+https://www.youtube.com/watch?v=zd0b9eJOIQ8----BaseDatos
+
+https://www.youtube.com/watch?v=aN8ufyKAnGU------Como Crear Instalador para proyectos de Visual Studio(2017)
+
+https://www.youtube.com/watch?v=m_rbUVexa3Q-------------------dsds
+
+https://www.youtube.com/watch?v=GRu19i9eTY0---------------------Seteo(Editar encabezados) de columnas de un gridview
+
+Nombre de conección
+DatabaseConnectionString
+
+Nombre dataset
+DatabaseDataSet
+
+public void display_data()
+{
+ connection.Open();
+ SqlCommand cmd = connection.CreateCommand();
+ cmd.CommandType = CommandType.Text;
+ cmd.CommandText = "select * from [MyTable]";
+ cmd.ExecuteNonQuery();
+ DataTable dta = new DataTable();
+ SqlDataAdapter dataadp = new SqlDataAdapter(cmd);
+ dataadp.Fill(dta);
+ dataGridView1.DataSource = dta;
+ connection.Close();
+}
+
+}
+
+
+
+***********ESTE NO FUNCIONA ************************************
+
+            con.Open();
+            string consulta = "Select * from IngresaIMP where IdImputados= " + txtID.Text + "";
+            cmd = new SqlCommand(consulta, con);
+            lector = cmd.ExecuteReader();
+            if (lector.Read() == true)
+            {
+                txtNombre.Text = lector["NOMBRE"].ToString();
+            }
+            con.Close();
+
+
+
+  adpt = new SqlDataAdapter("select * from IngresaIMP where DP like '" + LabelInformacion.Text + "'", con);
+                //adpt = new SqlDataAdapter("select Name,Email from [Employee]", con);
+                dt = new DataTable();
+                adpt.Fill(dt);
+                dataGridView3.DataSource = dt;
+
+
+
+**************ESTE SI FUNCIONA ******************
+
+
+        public DelitosVictimas(string DPprincipalDelitos)
+        {
+            InitializeComponent();
+            LabelInformacion.Text = DPprincipalDelitos;
+            
+
+            try
+            {
+                displayData();
+                con.Open();
+                cmd = new SqlCommand("Select * from IngresaIMP where DP= @DP", con);
+                cmd.Parameters.AddWithValue("@DP", DPprincipalDelitos);
+                lector = cmd.ExecuteReader();
+                if (lector.Read())
+                {
+                    txtNombreDelito.Text = lector["NOMBRE"].ToString();
+                }             
+                con.Close();
+                
+            }
+            catch(Exception)
+            {
+                MessageBox.Show("No se paso ningun parametro");
+            }
+            
+
+
+        }
+
+
+
+      private void displayData()
+        {
+            con.Open();
+            adpt = new SqlDataAdapter("select * from IngresaIMP where DP like '" + LabelInformacion.Text + "'", con);
+            //adpt = new SqlDataAdapter("select Name,Email from [Employee]", con);
+            dt = new DataTable();
+            adpt.Fill(dt);
+            dataGridView3.DataSource = dt;
+            con.Close();
+        }
+
+
+
+    private void button1_Click_2(object sender, EventArgs e)
+        {
+            con.Open();
+            cmd=new SqlCommand("Select * from IngresaIMP where DP= @DP",con);
+            cmd.Parameters.AddWithValue("@DP", txtID.Text);          
+            lector= cmd.ExecuteReader();
+            if (lector.Read())
+            {
+                txtNombre.Text = lector["NOMBRE"].ToString();
+            }
+            con.Close();
+        }
+
+
+ private void button5_Click(object sender, EventArgs e)
+        {
+
+ 
+            OpenChildForm(new ConfIniciales.IngresoImputados.DelitosVictimas(DPprincipal));
+
+
+        }

@@ -1,0 +1,474 @@
+	BASE DE DATOS----BaseProcuraduria
+
+use BaseProcuraduria
+
+create table InfoPenal(
+ DP VARCHAR(100),
+ AÑO INT,
+ TRIBUNAL VARCHAR(100),
+ REFERENCIA VARCHAR(100),
+ DefensorCaso VARCHAR(100),
+ DefensorProceso VARCHAR(100),
+ PRIMARY KEY CLUSTERED ([DP])
+)
+
+
+CREATE TABLE IngresaIMP(
+IdImputados INT IDENTITY (1, 1) NOT NULL,
+DP VARCHAR(100) NOT NULL,
+NOMBRE VARCHAR(100),
+APELLIDO VARCHAR(100),
+TipoGenero VARCHAR(15),
+PRIMARY KEY CLUSTERED ([IdImputados])
+)
+
+
+CREATE TABLE DeliVictimas(
+IdDeliVictimas INT IDENTITY (1, 1) NOT NULL,
+IdImputados INT NOT NULL,
+DP VARCHAR(100) NOT NULL,
+NOMBRE VARCHAR(100),
+APELLIDO VARCHAR(100),
+HechoPunible VARCHAR(MAX),
+InfoVictima VARCHAR(MAX),
+PRIMARY KEY CLUSTERED ([IdDeliVictimas])
+)
+
+
+CREATE TABLE TeoCasoComent(
+IdTeoCasos INT IDENTITY (1, 1) NOT NULL,
+IdImputados INT NOT NULL,
+DP VARCHAR(100) NOT NULL,
+NOMBRE VARCHAR(100),
+APELLIDO VARCHAR(100),
+TeoFiscalia VARCHAR(MAX),
+TeoDefensor VARCHAR(MAX),
+PRIMARY KEY CLUSTERED ([IdTeoCasos])
+)
+
+
+
+CREATE TABLE FechasAud(
+IdFechasAud INT IDENTITY (1, 1) NOT NULL,
+IdImputados INT NOT NULL,
+DP VARCHAR(100) NOT NULL,
+Nombre VARCHAR(100),
+Apellido VARCHAR(100),
+Fecha DATE,
+Hora Time,
+TipoAudiencia VARCHAR(20),
+InfoAuEspecial VARCHAR(MAX),
+PRIMARY KEY CLUSTERED ([IdFechasAud])
+)
+
+
+create table InfoPenalImpresiones(
+ IdUbicacion INT IDENTITY (1, 1) NOT NULL,
+ DP VARCHAR(100),
+ PRIMARY KEY CLUSTERED ([IdUbicacion])
+)
+
+
+
+ALTER TABLE IngresaIMP ADD CONSTRAINT FK_ImputadoPenal FOREIGN KEY(DP) REFERENCES InfoPenal(DP) ON DELETE CASCADE ON UPDATE CASCADE
+
+ALTER TABLE FechasAud ADD CONSTRAINT FK_FechasIMP FOREIGN KEY(IdImputados) REFERENCES IngresaIMP(IdImputados) ON DELETE CASCADE ON UPDATE CASCADE 
+
+ALTER TABLE DeliVictimas ADD CONSTRAINT FK_DeliIMP FOREIGN KEY(IdImputados) REFERENCES IngresaIMP(IdImputados) ON DELETE CASCADE ON UPDATE CASCADE 
+
+ALTER TABLE TeoCasoComent ADD CONSTRAINT FK_TeoPenal FOREIGN KEY(IdImputados) REFERENCES IngresaIMP(IdImputados) ON DELETE CASCADE ON UPDATE CASCADE 
+
+
+
+
+
+
+INSERT INTO InfoPenal values('DP-123','2022','PAZ-123456','JOSHUA MARTINEZ','ERICK PLEITEZ')
+INSERT INTO InfoPenal values('DP-456','2022','PAZ-123456','AMERICAN HERNAN','ROSA DEL CARMEN')
+INSERT INTO InfoPenal values('DP-789','2022','LIBERTAD-123456','VOLARIS GRATIS','BENITO LIMA')
+
+
+INSERT INTO IngresaIMP values('DP-123','CASEMIRO ADAMS','RIVAS','MASCULINO')
+INSERT INTO IngresaIMP values('DP-123','BRIZUELA BEN','HARD','MASCULINO')
+INSERT INTO IngresaIMP values('DP-123','POMEPYA LUCIA','LUDAS','FEMENINO')
+
+INSERT INTO DeliVictimas values('1','CASEMIRO ADAMS','RIVAS','AGRUPACIONES ILICITAS','LA PAZ PUBLICA','DP-123 ')
+INSERT INTO DeliVictimas values('2','BRIZUELA BEN','HARD','AMENAZAS','DOÑO','DP-123')
+INSERT INTO DeliVictimas values('3','POMEPYA LUCIA','LUDAS','AGRUPACIONES ILICITAS','LA PAZ PUBLICA','DP-123')
+
+INSERT INTO  FechasAud values('1','CASEMIRO ADAMS','RIVAS','2022-10-23','12:30','INICIAL','DP-123')
+INSERT INTO  FechasAud values('2','BRIZUELA BEN','HARD','2022-09-02','13:10','INICIAL','DP-123')
+INSERT INTO  FechasAud values('3','POMEPYA LUCIA','LUDAS','2022-11-12','12:30','INICIAL','DP-123')
+
+
+INSERT INTO TeoCasoComent values('DP-123','Lorem Ipsum es simplemente el 
+texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto 
+de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. 
+persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló
+de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
+sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente
+igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
+contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo
+Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.','Lorem Ipsum es simplemente el 
+texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto 
+de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. 
+persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló
+de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
+sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente
+igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
+contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo
+Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.','Nada')
+
+INSERT INTO TeoCasoComent values('DP-789','Lorem Ipsum es simplemente el 
+texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto 
+de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. 
+persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló
+de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
+sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente
+igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
+contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo
+Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.','Lorem Ipsum es simplemente el 
+texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto 
+de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. 
+persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló
+de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
+sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente
+igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
+contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo
+Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.','Espartacus')
+
+INSERT INTO TeoCasoComent values('DP-456','Lorem Ipsum es simplemente el 
+texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto 
+de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. 
+persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló
+de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
+sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente
+igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
+contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo
+Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.','Lorem Ipsum es simplemente el 
+texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto 
+de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. 
+persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló
+de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
+sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente
+igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales
+contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo
+Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.','Nada')
+
+**********************************************************************************************************************
+***********************INFORMACIÓN IMPORTANTE****************************************************************
+
+use Ismael
+
+update IngresaIMP SET IdImputados='4' WHERE IdImputados='1'
+delete from IngresaIMP where IdImputados='1'
+delete from IngresaIMP where IdImputados='2'
+
+DELETE FROM InfoPenal WHERE DP='DP-11000-100'
+
+update TeoCasoComent SET DP='DP-1000000' WHERE DP='DP-789'
+DELETE FROM TeoCasoComent WHERE DP='DP-456'
+
+update FechasAud SET IdImputados='10' WHERE IdImputados='3'
+DELETE FROM FechasAud WHERE IdImputados='3'
+
+SELECT * FROM InfoPenal
+SELECT *FROM IngresaIMP
+SELECT* FROM DeliVictimas
+SELECT* FROM FechasAud
+SELECT* FROM TeoCasoComent
+
+
+
+************SENTENCIA PARA BUSCAR INFORMACIÓN EN LA PESTALLA DE BUSCAR************
+
+SELECT  DL.NOMBRE 'NOMBRE', DL.APELLIDO 'APELLIDO',DL.HechoPunible 'Hecho Punible',DL.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA'
+FROM DeliVictimas DL 
+INNER  JOIN FechasAud FA
+    ON DL.IdImputados=FA.IdImputados 
+	WHERE DL.NOMBRE='CASEMIRO ADAMS'
+
+SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA'
+FROM InfoPenal INFO
+INNER JOIN IngresaIMP IMP
+  ON INFO.DP=IMP.DP
+INNER JOIN DeliVictimas DV
+  ON IMP.IdImputados=DV.IdImputados
+INNER JOIN FechasAud FA
+  ON IMP.IdImputados=FA.IdImputados
+
+
+
+C:\Users\ismae\source\repos
+  DirectoryInfo DIR = new DirectoryInfo(@"C:\ProcuAbogados" + NombreCarpeta);
+
+
+
+
+
+
+
+
+
+ if (txtDPBuscar.Text.Length > 0)
+                {
+                    con.Open();
+                    adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados'" + txtDPBuscar.Text + "%'", con);
+                    //adpt = new SqlDataAdapter("select * from InfoPenal where DP like '" + txtDPNombre.Text + "%'", con);
+                    dt = new DataTable();
+                    adpt.Fill(dt);
+                    con.Close();
+                    dgvBuscar.DataSource = dt;
+
+                }
+  if (txtDPBuscar.Text.Length > 0)
+                {
+                    con.Open();
+                    adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados",con);
+                    //adpt = new SqlDataAdapter("select * from InfoPenal where DP like '" + txtDPNombre.Text + "%'", con);
+                    dt = new DataTable();
+                    adpt.Fill(dt);
+                    con.Close();
+                    dgvBuscar.DataSource = dt;
+
+                }
+
+            //adpt = new SqlDataAdapter("select * from InfoPenal where DP like '" + txtDPNombre.Text + "%'", con);
+
+
+
+con.Open();
+            adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados", con);
+            dt = new DataTable();
+            adpt.Fill(dt);
+            con.Close();
+            dgvBuscar.DataSource = dt;
+
+
+
+
+               else if(txtDPBuscar.Text.Length > 0)
+                {
+                    con.Open();
+                    adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados where DP like '" + txtDPBuscar.Text + "%'", con);
+                    dt = new DataTable();
+                    adpt.Fill(dt);
+                    dgvBuscar.DataSource = dt;
+                    con.Close();
+                    
+
+                }
+
+
+C:\FERRARI\BASESITA.MDF
+
+ DirectoryInfo DIR = new DirectoryInfo(@"C:\ProcuAbogadosrr\"+NombreCarpeta);
+
+
+C:\USERS\ISMAE\DESKTOP\BUFETEABOGADOS\CONFINICIALES\BASEPROCURADURIA.MDF
+
+
+
+
+
+
+         if (txtDPBuscar.Text.Length > 0 || txtDPNombre.Text.Length > 0 || txtDPApellido.Text.Length > 0)
+            {
+                if(txtDPBuscar.Text.Length > 0)
+                {
+                    con.Open();
+                    adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados where DP like'"+txtDPBuscar.Text+" %'", con);
+                    dt = new DataTable();
+                    adpt.Fill(dt);
+                    dgvBuscar.DataSource = dt;
+                    con.Close();
+
+
+                }
+ 
+            }
+            else if (txtDPBuscar.Text.Length == 0 || txtDPNombre.Text.Length == 0 || txtDPApellido.Text.Length == 0)
+            {
+                displayData();
+            }
+
+        }
+
+
+ adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP where DP like '" + txtDPBuscar.Text + "%'", con);
+
+
+
+ con.Open();
+ adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados where DP like'" + txtDPBuscar.Text + " %'", con);
+                dt = new DataTable();
+                adpt.Fill(dt);
+                dgvBuscar.DataSource = dt;
+                con.Close();
+
+
+
+            //adpt = new SqlDataAdapter("select *from InfoPenal", con);
+            //adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP", con);
+
+
+
+
+
+         adpt = new SqlDataAdapter("select INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso', IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP", con);
+
+
+
+
+
+
+
+
+  private void displayData()
+        {
+            con.Open();
+            adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP", con);
+            dt = new DataTable();
+            adpt.Fill(dt);
+            dgvBuscar.DataSource = dt;
+            con.Close();
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     private void BusquedaDinamica()
+        {
+
+            SqlDataAdapter adptUNO = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+            DataSet dsUNO = new DataSet();
+            adptUNO.Fill(dsUNO);
+            int iUNO = dsUNO.Tables[0].Rows.Count;
+
+            SqlDataAdapter adptDOS = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+            DataSet dsDOS = new DataSet();
+            adptDOS.Fill(dsDOS);
+            int iDOS = dsDOS.Tables[0].Rows.Count;
+
+
+            SqlDataAdapter adptTRES = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+            DataSet dsTRES = new DataSet();
+            adptTRES.Fill(dsTRES);
+            int iTRES = dsTRES.Tables[0].Rows.Count;
+
+            SqlDataAdapter adptCUATRO = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso' FROM InfoPenal INFO where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+            DataSet dsCUATRO = new DataSet();
+            adptCUATRO.Fill(dsCUATRO);
+            int iCUATRO = dsCUATRO.Tables[0].Rows.Count;
+
+
+
+            if (iUNO > 0)
+            {
+                con.Open();
+                adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima',FA.Fecha 'FECHA AUDIENCIA', FA.TipoAudiencia 'TIPO AUDIENCIA' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados INNER JOIN FechasAud FA ON IMP.IdImputados = FA.IdImputados where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+                dt = new DataTable();
+                adpt.Fill(dt);
+                con.Close();
+                dgvBuscar.DataSource = dt;
+            }
+
+
+            if (iDOS > 0)
+            {
+
+                con.Open();
+                adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO',DV.HechoPunible 'Hecho Punible',DV.InfoVictima 'Victima' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP INNER JOIN DeliVictimas DV ON IMP.IdImputados = DV.IdImputados where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+                dt = new DataTable();
+                adpt.Fill(dt);
+                con.Close();
+                dgvBuscar.DataSource = dt;
+            }
+
+            else if (iTRES > 0)
+            {
+
+                con.Open();
+                adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso',IMP.NOMBRE 'NOMBRE',IMP.APELLIDO 'APELLIDO' FROM InfoPenal INFO INNER JOIN IngresaIMP IMP ON INFO.DP = IMP.DP where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+                dt = new DataTable();
+                adpt.Fill(dt);
+                con.Close();
+                dgvBuscar.DataSource = dt;
+
+            }
+            else if (iCUATRO > 0)
+            {
+                con.Open();
+                adpt = new SqlDataAdapter("SELECT INFO.DP 'DP',INFO.AÑO 'AÑO', INFO.DefensorProceso 'Defensor Proceso' FROM InfoPenal INFO where INFO.DP like'" + txtDPBuscar.Text + "%'", con);
+                dt = new DataTable();
+                adpt.Fill(dt);
+                con.Close();
+                dgvBuscar.DataSource = dt;
+
+            }
+            else if (txtDPBuscar.Text.Length == 0 || txtDPNombre.Text.Length == 0 || txtDPApellido.Text.Length == 0)
+            {
+                displayData();
+            }
+
+        }
+
+
+
+else if (txtDPBuscar.Text.Length == 0 || txtDPNombre.Text.Length == 0 || txtDPApellido.Text.Length == 0)
+            {
+                displayData();
+            }
+
+
+
+
+
+
+use [C:\BASEPROCURADURIA\BASEPROCURADURIA.MDF];
+
+select* from InfoPenal;
+select* from IngresaIMP;
+select* from DeliVictimas;
+select* from FechasAud;
+select* from TeoCasoComent;
+select* from InfoPenalImpresiones;
+
+
+                cmd = new SqlCommand("insert into TeoCasoComent values('"+DPprincipal+"','"+txtSfiscalia.Text+"','"+txtSdefensor.Text+"','"+txtInfoExtra.Text+"')",con);
+
+
+incorrect syntax near s, incorrect syntax near keyword 'with'
+unclose quotation mark after the character string
+
+use [C:\BASEPROCURADURIA\BASEPROCURADURIA.MDF];
+select* from InfoPenal;
+select* from IngresaIMP;
+select* from DeliVictimas;
+select* from FechasAud;
+select* from TeoCasoComent;
+select* from InfoPenalImpresiones;
+
+
+       dgvBuscar.ColumnHeadersDefaultCellStyle.BackColor = Color.MediumSeaGreen;
+            dgvBuscar.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
+            dgvBuscar.RowHeadersDefaultCellStyle.BackColor = Color.Green;
+            dgvBuscar.RowHeadersDefaultCellStyle.ForeColor = Color.White;
+            dgvBuscar.RowsDefaultCellStyle.SelectionBackColor = Color.SeaGreen;
+            dgvBuscar.RowsDefaultCellStyle.BackColor = Color.MediumTurquoise;
+
+
+ with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

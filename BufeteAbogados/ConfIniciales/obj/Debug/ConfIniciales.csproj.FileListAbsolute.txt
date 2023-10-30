@@ -1,0 +1,389 @@
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.BuscarImputados.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.BuscarImputados.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\prueba3\BufeteAbogados-master\BufeteAbogados-master-roto\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\BufeteAbogados\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.Impresiones.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.Impresiones.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.Impresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.AssemblyReference.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.Impresiones.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\USER 1\Downloads\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD (1)\BufeteAbogados-FINAL-DE-VERDAD\BufeteAbogados-FINAL\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.config
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\ConfIniciales.pdb
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.dll
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\bin\Debug\itextsharp.xml
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Bienvenida.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Creditos.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Form1.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.HistorialImpresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.DelitosVictimas.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.FechasAudiencias.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosExtra.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.ImputadosPrincipal.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.PantallaFinalizacion.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.IngresoImputados.Impresiones.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.Properties.Resources.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.SearchIMP.resources
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.GenerateResource.cache
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe.manifest
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.application
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.csproj.CopyComplete
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.exe
+C:\Users\ismae\Desktop\BufeteAbogados\ConfIniciales\obj\Debug\ConfIniciales.pdb

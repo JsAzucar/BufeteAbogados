@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{698B721D-19C6-4A50-A750-43CBFA18E726}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ConfIniciales</RootNamespace>
+    <AssemblyName>ConfIniciales</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ismae\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/ConfIniciales/</UpdateUrl>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F82603BB70EE21F85E7F21829A577F0005F2A401</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ConfIniciales_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.1.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\itextsharp.xmlworker.5.5.13.3\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creditos.Designer.cs">
+      <DependentUpon>Creditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GradientPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HistorialImpresiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialImpresiones.Designer.cs">
+      <DependentUpon>HistorialImpresiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoImputados\DelitosVictimas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoImputados\DelitosVictimas.Designer.cs">
+      <DependentUpon>DelitosVictimas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoImputados\FechasAudiencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoImputados\FechasAudiencias.Designer.cs">
+      <DependentUpon>FechasAudiencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoImputados\ImputadosExtra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoImputados\ImputadosExtra.Designer.cs">
+      <DependentUpon>ImputadosExtra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoImputados\ImputadosPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoImputados\ImputadosPrincipal.Designer.cs">
+      <DependentUpon>ImputadosPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoImputados\PantallaFinalizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoImputados\PantallaFinalizacion.Designer.cs">
+      <DependentUpon>PantallaFinalizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoImputados\Impresiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoImputados\Impresiones.Designer.cs">
+      <DependentUpon>Impresiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchIMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchIMP.Designer.cs">
+      <DependentUpon>SearchIMP.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creditos.resx">
+      <DependentUpon>Creditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorialImpresiones.resx">
+      <DependentUpon>HistorialImpresiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoImputados\DelitosVictimas.resx">
+      <DependentUpon>DelitosVictimas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoImputados\FechasAudiencias.resx">
+      <DependentUpon>FechasAudiencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoImputados\ImputadosExtra.resx">
+      <DependentUpon>ImputadosExtra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoImputados\ImputadosPrincipal.resx">
+      <DependentUpon>ImputadosPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoImputados\PantallaFinalizacion.resx">
+      <DependentUpon>PantallaFinalizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoImputados\Impresiones.resx">
+      <DependentUpon>Impresiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SearchIMP.resx">
+      <DependentUpon>SearchIMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\martillo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-pgr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Balanza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Constitucion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SalvadorMundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MujerBalanza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plantilla.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plantilla2.html" />
+    <Content Include="Resources\Presentacion.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
